@@ -19,6 +19,6 @@
 - Statsmodels – Statistical tests and regression analysis
 - 🛠️ Version Control & Collaboration
 - Git / GitHub – Version control and collaboration
-- Notion / Confluence – Documentation and knowledge sharing
+- Notion – Documentation and knowledge sharing
 - Slack / Teams – Communication tools
 
