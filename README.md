@@ -5,20 +5,20 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I enjoy dancing
 
--Tools and techniques:
--🔧 Data Collection & Storage
--Excel – Quick data exploration and manipulation
--Web Scraping Tools – BeautifulSoup
--📊 Data Analysis & Manipulation
--Python (with pandas, NumPy)
--Jupyter Notebooks – Interactive coding environments
--📈 Data Visualization
--Matplotlib / Seaborn / Plotly – Python libraries for custom visualizations
--🤖 Statistical & Machine Learning Tools
--Scikit-learn – ML models and preprocessing
--Statsmodels – Statistical tests and regression analysis
--🛠️ Version Control & Collaboration
--Git / GitHub – Version control and collaboration
--Notion / Confluence – Documentation and knowledge sharing
--Slack / Teams – Communication tools
+- Tools and techniques:
+- 🔧 Data Collection & Storage
+- Excel – Quick data exploration and manipulation
+- Web Scraping Tools – BeautifulSoup
+- 📊 Data Analysis & Manipulation
+- Python (with pandas, NumPy)
+- Jupyter Notebooks – Interactive coding environments
+- 📈 Data Visualization
+- Matplotlib / Seaborn / Plotly – Python libraries for custom visualizations
+- 🤖 Statistical & Machine Learning Tools
+- Scikit-learn – ML models and preprocessing
+- Statsmodels – Statistical tests and regression analysis
+- 🛠️ Version Control & Collaboration
+- Git / GitHub – Version control and collaboration
+- Notion / Confluence – Documentation and knowledge sharing
+- Slack / Teams – Communication tools
 
