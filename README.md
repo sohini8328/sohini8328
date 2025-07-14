@@ -23,5 +23,4 @@
 - Slack / Teams – Communication tools
 - 
 
-|Code jam projects|       Description |     Tools used  |   Date |
-|----------|       | ----------- |    |----------|    |--------|
+
