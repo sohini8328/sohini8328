@@ -21,4 +21,7 @@
 - Git / GitHub – Version control and collaboration
 - Notion – Documentation and knowledge sharing
 - Slack / Teams – Communication tools
+- 
 
+|Code jam projects|       Description |     Tools used  |   Date |
+------------------         -----------     ----------    --------
