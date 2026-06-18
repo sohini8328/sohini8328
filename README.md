@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sohini Tomar
-- 💞️ I’m looking to collaborate on any data science projects
+- 💞️ I’m looking to collaborate on any business analysis or data science projects
 - 📫 How to reach me sohini.tomar@gmail.com
 - 😄 Pronouns: She/her
 
